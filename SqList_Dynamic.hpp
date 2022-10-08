@@ -29,3 +29,4 @@ bool listDelete(SqList_dynamic &L, int i, int &e);//删除位置为i处的元素
 bool getElem(SqList_dynamic &L, int i, int &e);//按位查找
 bool locateElem(SqList_dynamic &L, int e, int &i);//按值查找
 #endif /* SqList_Dynamic_hpp */
+//2022/10/8新增
